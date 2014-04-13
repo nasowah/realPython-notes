@@ -1,0 +1,15 @@
+*.pyc
+log/
+*.log
+*.[oa]
+*~
+*.pyo
+*.tmp*
+*.mo
+*.egg
+*.EGG
+*.egg-info
+*.EGG-INFO
+*.kpf
+*.swp
+*.wpr
