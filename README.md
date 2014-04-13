@@ -6,9 +6,9 @@ the http://www.realpython.com/ modules. At the same time getting to sharpen my s
 git and others
 
 
-## Chapter 3 - Interlude: Leave yourself helpful notes
+#### Chapter 3 - Interlude: Leave yourself helpful notes
 
 
-## Chapter 4 - Fundamentals: Strings and Methods
+#### Chapter 4 - Fundamentals: Strings and Methods
 
 
