@@ -1,4 +1,8 @@
 #!/usr/bin/env python
+'''
+A test script to perform activities based on lenght of input. 
+This goes the next step to include exceptions.
+'''
 
 try:
 	holdWord = raw_input("Enter word: ")
