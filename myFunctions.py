@@ -1,12 +1,12 @@
+#!/usr/bin/env python
+
 def square (number):
-    """Return the square of a number by multiplying the number by itself.
-    """
+    """Return the square of a number by multiplying the number by itself."""
     sqr_num = number * number
     return sqr_num
 
 def returnDifference(num1,num2):
-    """Return the difference between two numbers.
-    """    
+    """Return the difference between two numbers.  """    
     return num1 - num2
     
 def cubeFun(num1):
